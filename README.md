@@ -63,7 +63,7 @@ If you want to be a reliability engineer or systems engineer, study more from th
     - [Linked Lists](#linked-lists)
     - [Stack](#stack)
     - [Queue](#queue)
-    - [Hash table](#hash-table)
+    - [x][Hash table](#hash-table)
 - [More Knowledge](#more-knowledge)
     - [Binary search](#binary-search)
     - [Bitwise operations](#bitwise-operations)
